@@ -47,9 +47,10 @@ output:
 From [Wikipedia](https://en.wikipedia.org/wiki/Open_science)
 
 ```
-Open science is the movement to make scientific research, 
-data and dissemination accessible to all levels of 
-an inquiring society, amateur or professional.
+Open science is the movement to make 
+scientific research, data and dissemination 
+accessible to all levels of an inquiring 
+society, amateur or professional.
 ```
 ----
 
@@ -58,7 +59,13 @@ an inquiring society, amateur or professional.
 From [FOSTER](https://www.fosteropenscience.eu/foster-taxonomy/open-science-definition)
 
 ```
-Open Science is the practice of science in such a way that others can collaborate and contribute, where research data, lab notes and other research processes are freely available, under terms that enable reuse, redistribution and reproduction of the research and its underlying data and methods. 
+Open Science is the practice of science 
+in such a way that others can collaborate 
+and contribute, where research data, lab notes 
+and other research processes are freely 
+available, under terms that enable reuse, 
+redistribution and reproduction of the 
+research and its underlying data and methods. 
 ```
 
 ----
@@ -130,7 +137,7 @@ Hence he/she deserves grants/incentives.
 
 ----
 
-# Benefits of #openscience
+# benefits of #openscience
 
 The benefits according to [Whyopenresearch](http://whyopenresearch.org)
 
@@ -140,7 +147,7 @@ The benefits according to [Whyopenresearch](http://whyopenresearch.org)
 
 ----
 
-## How #openscience helps scholars
+## how #openscience helps scholars
 
 According to [McKiernan et al., 2016](https://elifesciences.org/content/5/e16800)
 
@@ -148,29 +155,28 @@ Follow her [@mckiernan13](https://twitter.com/emckiernan13)
 
 ----
 
-## How #openscience helps scholars to ...
-- gain more visibility of their works: in open access journals, blogs, preprint servers, and repositories; 
-- get a persistent address for their works: attaching doi (digital object identifier);
-- get more citations: by applying metrics like [Altmetrics](altmetrics.org);
-- harvest more inputs: via comments and reviewing facilities like [Publons](publons.com); or via scientific publishing platform like [ScienceOpen](scienceopen.com);
-- get more attentions from grant funders: do you know that you can publish a grant proposal? Yes you can, eg on [RIOJournal](riojournal.com)
+## openscience means ...
+
+- more **visibility** of their works: in open access journals, blogs, preprint servers, and repositories, attaching doi (digital object identifier) for persistent address;
+- more **citations**: by applying metrics like [Altmetrics](altmetrics.org);
+- harvest more **inputs**: via comments and reviewing facilities like [Publons](publons.com); or via scientific publishing platform like [ScienceOpen](scienceopen.com);
 
 ----
 
-## What does it take to get more citations? 
+## what does it take to get more citations? 
 
 Shifted perpective:
 
-- **open access** articles get more citations
-- articles with **open data** get more citations
-- articles with **open method** get more citations
+- **open access** articles get more citations;
+- articles with **open data** get more citations;
+- articles with **open method** get more citations;
 
 ----
 
-## Relative citation of articles in OA/non-OA journals (McKiernan et al., 2016)
+## relative citation of articles in OA/non-OA journals (McKiernan et al., 2016)
 
 <div align="center">
-<img src="citationPlot.jpg" width=800 height=600>
+<img src="citationPlot.jpg" width=800 height=500>
 </div>
 
 ----
@@ -189,58 +195,99 @@ We will see [ArXiv](arxiv.org), [BiorXiv](biorxiv.org), [SocarXiv](https://osf.i
 - **reproducibility**: allowing others to reproduce your work and validate it; **replicability**: allowing others to apply your work (methods) to their own work
 - **transparent and accountable**: allowing grant funder to monitor your progress
 
-----
-
-## The (obvious) benefits
-
-- then **citation and more citations** will (eventually) follow
 
 ----
 
-# Recommended practices (my own)
-
-- hold on to your rights: your research is yours and yours only
-- publish early, publish often: science evolves, publishing means opportunity 
-- publish openly or self archiving
+# the innovations of openscience
 
 ----
 
-# There're more innovations to come
+## `post publication peer review`
 
-- Remembering getting your first blind reviews;
-- Well now, we have `post publication peer review`. Publish first and getting comments afterwards, example: [ScienceOpen](scienceopen.com), [F1000Research](F1000Research.com), [ESSD](http://www.earth-syst-sci-data-discuss.net/);
-- Plus, you get to see your reviewer's name (open review system).
+- publish first and getting comments afterwards, example: [ScienceOpen](scienceopen.com), [F1000Research](F1000Research.com), [ESSD](http://www.earth-syst-sci-data-discuss.net/);
 
 ----
 
-# Article's metrics: beyond Impact Factor
+## `open review system`
 
-- Now we do have [Altmetrics](Altmetrics.com), to measure the online conversations on your article;
-- Or you can put on your page on [ImpactStory](ImpactStory.org);
+- no blind review 
+- review as a quality improvement process
+- review is not a gate keeper
+
+----
+
+## alternative article's metrics: beyond Impact Factor
+
+- Now we do have [Altmetrics](Altmetrics.com), to measure online conversations on your article, [example](https://www.altmetric.com/details/2500334?src=bookmarklet);
+- Or you can put on your page on [ImpactStory](ImpactStory.org),  [example](https://impactstory.org/u/0000-0002-1526-0863/);
 - Since [ResearchGate](researchgate.net) social media is also very popular, why don't you put your works there and get scored.
 
 ----
 
-# collaborate, collaborative, collaboration
+## collaborate, collaborative, collaboration
 
 You can't do all by yourself. That's why now we have collaborative platforms:
 
 - writing platforms, like: [Overleaf](overleaf.com), [Authorea](authorea.com), [Papeeria](Papeeria.com) 
 - research platforms: [OSF](osf.io)
-- publishing platforms: [ScienceOpen](ScienceOpen.com). You can even write comments to ArXiv papers.
+- publishing platforms: [ScienceOpen](ScienceOpen.com).
 
 ----
 
-# Or you just simply do it the old way
-
-- Write a blog post and hit `Publish` on Wordpress or Blogger. 
-- or better yet connect your blog with [TheWinnower](https://thewinnower.com).
+# Recommended practices (my own) 
 
 ----
 
-# Thank you
+## no 1 hold on to your **rights**: my research is mine and mine only
 
-- Follow [my twitter acc](www.twitter.com/dasaptaerwin) and connect
-- Visit my blogs: 
-    - dasaptaerwin.wordpress.com and 
-    - dasaptaerwin.net/wp
+- I don't follow legacy system: 
+    - I do the research
+    - I write the paper and submit it
+    - somebody reviews it (with no pay)
+    - I revise the paper
+    - publisher says "accepted"
+    - ~~you sign the transfer copyright agreement~~
+    - ~~you **loose** the right over your own paper~~
+
+----
+
+## no 1 hold on to your **rights**: my research is mine and mine only
+
+- I choose open access journals to publish my work; 
+- I use independent "white list", like [DOAJ](doaj.org) list as reference;   
+- or self archiving, eg: [blogs](derwinirawan.wordpress.com), [OSF](osf.io), [Figshare](figshare.com), [Zenodo](zenodo.org), Dataverse network. 
+
+----
+
+## no 2 science evolves, publishing means opportunity 
+
+- I don't wait until the final phase, 
+- I publish my work from the very begining. I made project proposal online. [Example](https://figshare.com/articles/Ecohydrological_characterization_on_Cikapundung_watershed_a_proposal_--_version_1_/3978381). 
+- this way I can take the readers into my scientific story and invite their collaboration. [Example](https://goo.gl/9Bnp5E).
+
+----
+
+## no 3 google is my best friend
+
+- post my reports (academic, projects) in open repository. [example1](https://figshare.com/articles/The_hydrochemistry_of_Mount_Ciremai_groundwater_system_Kuningan_West_Java_Indonesia/4056129), [example2](https://goo.gl/YiDYJV);
+- post my data as one of research output in open repo and cite it in my paper. [Example1](https://goo.gl/4nNzkr),[Example2](https://goo.gl/AbeKjy). 
+
+----
+
+# closing
+
+----
+
+## take home messages
+
+- protect your rights by submitting to open access media;
+- releasing data, method, and using open source software to maintain the reproducibility aspect
+- if it's not online then it's not there
+
+----
+
+## thank you and please connect
+
+- d _ erwin _ irawan(@)yahoodotcom
+- [twitter](www.twitter.com/dasaptaerwin)
+- [blog1](dasaptaerwin.wordpress.com) and [blog2](dasaptaerwin.net/wp)
